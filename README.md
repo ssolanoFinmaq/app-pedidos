@@ -6,6 +6,7 @@
 
 El proyecto está organizado de la siguiente manera:
 
+```
 app-pedidos/
 ├── index.html
 ├── css/
@@ -19,6 +20,7 @@ app-pedidos/
 ├── product4.jpg
 ├── product5.jpg
 └── product6.jpg
+```
 
 ## Descripción de los Archivos
 
