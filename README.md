@@ -37,3 +37,7 @@ app-pedidos/
 
 2. **Catálogo de Productos**:
    - Listado de cuatro productos con imagen y descripción.
+
+## Proyecto publicado en GH Pages
+
+https://ssolanofinmaq.github.io/app-pedidos/
