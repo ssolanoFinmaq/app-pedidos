@@ -36,4 +36,4 @@ app-pedidos/
    - Título de la aplicación.
 
 2. **Catálogo de Productos**:
-   - Listado de seis pro
+   - Listado de cuatro productos con imagen y descripción.
